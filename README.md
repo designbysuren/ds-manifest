@@ -1,12 +1,17 @@
-# ds-manifest
+<div align="center">
 
-The file your design system was always missing.
+<img src="./header.svg" alt="ds-manifest — The file your design system was always missing" width="100%"/>
 
-A machine-readable component manifest for coding agents.
+<br/>
 
-CLAUDE.md tells agents how to behave. DESIGN.md tells agents what your tokens are. Neither tells agents what your components are, when to use them, or when not to.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![AI-ready](https://img.shields.io/badge/AI--ready-yes-2563EB?style=flat-square)](https://github.com/designbysuren/ds-manifest)
+[![system.md](https://img.shields.io/badge/template-system.md-2563EB?style=flat-square)](./system.md)
+[![Figma Guide](https://img.shields.io/badge/Figma-guide-a259ff?style=flat-square)](./FIGMA_GUIDE.md)
 
-That is what system.md is for.
+</div>
+
+<br/>
 
 ## The Problem
 
