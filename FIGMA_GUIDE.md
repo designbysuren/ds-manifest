@@ -8,9 +8,9 @@
 
 This guide walks through building a Figma file with 3 pages:
 
-1. Components -- Button and Card components with Dev Mode annotations
-2. Tokens -- All variables with usage rules
-3. How to Use This File -- Documentation and links
+1. Components - Button and Card components with Dev Mode annotations
+2. Tokens - All variables with usage rules
+3. How to Use This File - Documentation and links
 
 ---
 
@@ -76,8 +76,8 @@ Do not skip this. The description field is the entire point of the variables set
 1. Press F to create a frame, draw any size
 2. With the frame selected press Shift + A to add auto layout
 3. Set direction to horizontal
-4. Set horizontal padding to 16 -- link to spacing/md variable
-5. Set vertical padding to 12 -- hardcode this value, no variable needed
+4. Set horizontal padding to 16 - link to spacing/md variable
+5. Set vertical padding to 12 - hardcode this value, no variable needed
 6. Set alignment to center horizontal and center vertical
 
 ### Add the label
@@ -131,8 +131,8 @@ Do not skip this. The description field is the entire point of the variables set
 3. Set direction to vertical
 4. Set width to 320
 5. Set height to hug contents
-6. Set padding all sides to 24 -- link to spacing/lg variable
-7. Set gap between items to 16 -- link to spacing/md variable
+6. Set padding all sides to 24 - link to spacing/lg variable
+7. Set gap between items to 16 - link to spacing/md variable
 
 ### Set fill, radius, and shadow
 1. Add fill: #FFFFFF
@@ -237,16 +237,16 @@ States required: default, empty.
 
 Add these text layers in order:
 
-Title: "Tokens" -- Inter 40px weight 700 color #FFFFFF
-Subtitle: "All variables with usage rules" -- Inter 18px weight 400 color #737373
+Title: "Tokens" - Inter 40px weight 700 color #FFFFFF
+Subtitle: "All variables with usage rules" - Inter 18px weight 400 color #737373
 
-Section heading "Color" -- Inter 14px weight 600 color #2563EB
+Section heading "Color" - Inter 14px weight 600 color #2563EB
 Then a text block with all color token entries and their use/do not use rules.
 
-Section heading "Spacing" -- same style
+Section heading "Spacing" - same style
 Then a text block with all spacing token entries and their use/do not use rules.
 
-Section heading "Radius" -- same style
+Section heading "Radius" - same style
 Then a text block with all radius token entries and their use rules.
 
 ---
@@ -260,10 +260,10 @@ Then a text block with all radius token entries and their use rules.
 
 Add these text layers:
 
-Title: "system.md" -- Inter 40px weight 700 color #FFFFFF
-Subtitle: "Agent-Ready Design System Template" -- Inter 18px weight 400 color #737373
+Title: "system.md" - Inter 40px weight 700 color #FFFFFF
+Subtitle: "Agent-Ready Design System Template" - Inter 18px weight 400 color #737373
 
-Body text -- Inter 16px weight 400 color #A3A3A3 line height 28:
+Body text - Inter 16px weight 400 color #A3A3A3 line height 28:
 ```
 This file exists for one reason.
 Coding agents cannot open your Figma library mid-session.
@@ -312,7 +312,7 @@ Article: [your Medium link after publishing]
 
 Name:
 ```
-system.md -- Agent-Ready Design System Template
+system.md - Agent-Ready Design System Template
 ```
 
 Description:
@@ -324,16 +324,16 @@ Every component has a Development annotation answering 3 questions:
 what it is, when to use it, when not to.
 
 The 3 file stack:
-CLAUDE.md -- how the agent behaves
-DESIGN.md -- what your tokens are and why
-system.md -- what your components are and how to use them
+CLAUDE.md - how the agent behaves
+DESIGN.md - what your tokens are and why
+system.md - what your components are and how to use them
 
 Fork this file. Replace with your own system.
 Apply the same annotation pattern to every token and component.
 
 Built alongside the Medium article:
 I Gave My Agent CLAUDE.md and DESIGN.md. It Ignored My Entire Component Library.
-By Suren -- Suren Publication on Medium.
+By Suren - Suren Publication on Medium.
 ```
 
 Tags:
