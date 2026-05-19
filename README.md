@@ -24,6 +24,9 @@ Every wrong output is a missing sentence in your documentation.
 | DESIGN.md | What the tokens are and why |
 | system.md | What the components are and how to use them |
 
+DESIGN.md is Google's open-source format. Fork it here: [github.com/google/design-md](https://github.com/google/design-md)
+
+
 3 files. Each doing a job the others cannot.
 
 ## What Is In This Repo
