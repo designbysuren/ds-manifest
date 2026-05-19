@@ -343,6 +343,6 @@ CLAUDE.md, DESIGN.md, system.md, Figma variables, Dev Mode
 ```
 
 ### After approval
-1. Copy the community URL from your browser
+1. Community file is live: https://www.figma.com/community/file/1638386195517568464/system-md-agent-ready-design-system-template
 2. Add it to the Medium article as the first comment on publish day
 3. Update the placeholder link in the documentation page
