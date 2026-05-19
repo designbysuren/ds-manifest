@@ -84,7 +84,7 @@ See FIGMA_GUIDE.md for the full step by step walkthrough.
 
 A ready-to-fork Figma file showing the full annotation pattern. Button and Card components, fully annotated. Tokens page with all variable description fields filled in.
 
-Figma Community: [link coming soon]
+Figma Community: [system.md - Agent-Ready Design System Template](https://www.figma.com/community/file/1638386195517568464/system-md-agent-ready-design-system-template)
 
 ## Built Alongside
 
