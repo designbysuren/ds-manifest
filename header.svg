@@ -114,7 +114,7 @@
   <!-- Blue accent dot -->
   <circle class="dot" cx="72" cy="108" r="6" transform-origin="72 108"/>
 
-  <!-- Title — ds-manifest, letter by letter -->
+  <!-- Title - ds-manifest, letter by letter -->
   <text class="title" x="88" y="130">
     <tspan class="t1">d</tspan><tspan class="t2">s</tspan><tspan class="t3">-</tspan><tspan class="t4">m</tspan><tspan class="t5">a</tspan><tspan class="t6">n</tspan><tspan class="t7">i</tspan><tspan class="t8">f</tspan><tspan class="t9">e</tspan><tspan class="t10">s</tspan><tspan class="t11">t</tspan>
   </text>
