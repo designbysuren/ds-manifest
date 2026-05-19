@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="ds-manifest — The file your design system was always missing" width="100%"/>
+<img src="./header.svg" alt="ds-manifest - The file your design system was always missing" width="100%"/>
 
 <br/>
 
@@ -88,7 +88,7 @@ Figma Community: [link coming soon]
 
 ## Built Alongside
 
-"I Gave My Agent CLAUDE.md and DESIGN.md. It Ignored My Entire Component Library." by Suren — Suren Publication on Medium
+"I Gave My Agent CLAUDE.md and DESIGN.md. It Ignored My Entire Component Library." by Suren - Suren Publication on Medium
 
 [Medium article link coming soon]
 
