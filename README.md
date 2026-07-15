@@ -90,7 +90,7 @@ Figma Community: [system.md - Agent-Ready Design System Template](https://www.fi
 
 "I Gave My Agent CLAUDE.md and DESIGN.md. It Ignored My Entire Component Library." by Suren - Suren Publication on Medium
 
-[Medium article link coming soon]
+[Read it on Medium](https://medium.com/design-systems-collective/i-gave-my-agent-claude-md-and-design-md-it-ignored-my-entire-component-library-c6d7e9be34d4)
 
 ## Contributing
 
