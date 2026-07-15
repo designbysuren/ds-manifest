@@ -21,18 +21,19 @@ They read your tokens and rebuild components from scratch because nothing pointe
 
 Every wrong output is a missing sentence in your documentation.
 
-## The 3 File Stack
+## The 4 File Stack
 
 | File | Job |
 |------|-----|
 | CLAUDE.md | How the agent behaves |
 | DESIGN.md | What the tokens are and why |
 | system.md | What the components are and how to use them |
+| truth-layer.md | Which artifact layer holds authority for which kind of decision |
 
 DESIGN.md is Google's open-source format. Fork it here: [github.com/google/design-md](https://github.com/google/design-md)
 
 
-3 files. Each doing a job the others cannot.
+4 files. Each doing a job the others cannot.
 
 ## What Is In This Repo
 
@@ -41,6 +42,7 @@ DESIGN.md is Google's open-source format. Fork it here: [github.com/google/desig
 | system.md | The main template. Fork this and replace with your own system. |
 | CLAUDE_MD_REFERENCE.md | Example CLAUDE.md with design system rules added. |
 | FIGMA_GUIDE.md | Step by step guide to annotate your Figma file for agents. |
+| truth-layer.md | Routing convention for layered product truth. Defines which artifact (Figma, Storybook, Production) governs which kind of decision and which direction corrections propagate. |
 
 ## How to Use system.md
 
