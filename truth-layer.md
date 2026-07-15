@@ -75,5 +75,3 @@ Living Product Systems require continuous alignment across all 3 layers. A singl
 ---
 
 See: [The Design File Is No Longer the Source of Truth](#) — Part 4 of the AI-Native Product Design Series
-
-(Update placeholder link once article is live on Medium)
